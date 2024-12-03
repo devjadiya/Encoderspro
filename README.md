@@ -1,7 +1,6 @@
 # **Lead Generation and Payment Integration Platform for ENCODERSPRO**
 
-![Landing Page](path_to_screenshot_1)  
-![Lead Generation Form](path_to_screenshot_2)  
+![Landing Page](https://github.com/devjadiya/Encoderspro/blob/main/public/images/Encoderspro_cybersecurity_course_desktop.png)
 
 This is a **Lead Generation Platform** for **ENCODERSPRO Pvt. Ltd.**, designed to handle course enrollments. It integrates a custom UI, **Razorpay** payment gateway, and dynamic lead capture forms to streamline the course enrollment process.
 
@@ -40,7 +39,9 @@ This is a **Lead Generation Platform** for **ENCODERSPRO Pvt. Ltd.**, designed t
 
 ## **Setup Instructions:**
 
-### 1. Clone the Repository
+# Lead Generation Course Application
+
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/lead-generation-course.git
@@ -53,13 +54,10 @@ npm install
 bash
 Copy code
 npm start
-Once the app is running, you can access it by visiting http://localhost:3000 in your browser.
+Visit the app at: http://localhost:3000
 
 4. Build for Production
 bash
 Copy code
 npm run build
-After building the app, you can deploy it on your server, or use cloud services like Netlify or Vercel to host the app. Follow the deployment instructions on their official documentation.
-
-Deployment:
-The project is deployed on the company’s subdomain courses.encoderspro.com. This ensures a smooth and secure experience for users exploring and enrolling in ENCODERSPRO's courses.
+You can deploy the built app using services like Netlify, Vercel, or your custom server.
