@@ -1,4 +1,4 @@
-# **Lead Generation and Payment Integration Platform for ENCODERSPRO**
+# **Lead Generation and Payment Integration Platform for ENCODERSPRO** 
 
 ![Landing Page](https://github.com/devjadiya/Encoderspro/blob/main/public/images/Encoderspro_cybersecurity_course_desktop.png)
 
@@ -28,7 +28,7 @@ This is a **Lead Generation Platform** for **ENCODERSPRO Pvt. Ltd.**, designed t
 - **Design Tool**:
   - **Figma**: Custom UI/UX design from scratch.
 - **Hosting**:
-  - Hosted on **courses.encoderspro.com** (company subdomain).
+  - Hosted on <a href="https://course.encoderspro.com/">**course.encoderspro.com** </a> (company subdomain).
 
 ## **Platform Highlights:**
 
@@ -43,21 +43,18 @@ This is a **Lead Generation Platform** for **ENCODERSPRO Pvt. Ltd.**, designed t
 
 ## 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/lead-generation-course.git
-cd lead-generation-course
-2. Install Dependencies
-bash
-Copy code
+```javascript
+
+1. Install Dependencies
+
 npm install
-3. Run Locally
-bash
-Copy code
+
+2. Run Locally
+
 npm start
+
 Visit the app at: http://localhost:3000
 
-4. Build for Production
-bash
-Copy code
+3. Build for Production
+
 npm run build
-You can deploy the built app using services like Netlify, Vercel, or your custom server.
